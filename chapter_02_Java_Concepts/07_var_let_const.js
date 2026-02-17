@@ -64,3 +64,4 @@ console.log(a); // 20
 const pi = 3.14; // Constant variable
 console.log(pi);
 pi = 3.14159; // Error: Assignment to constant variable
+
